@@ -45,7 +45,7 @@ a{
 .header_container ul li a{
   text-decoration: none;
   color: white;
-  font-size: 1rem;
+  font-size: 2rem;
 }
 
 /* Home */
@@ -69,7 +69,7 @@ a{
   font-family: "Montserrat";
 }
 .home_container .home_head_wrapper h1 span{
-  color:#1E6FD9;
+  color:#6f97cb;
 }
 .home_container .home_head_wrapper p{
   position: relative;
@@ -86,7 +86,7 @@ a{
   border-width: 5px;
   border-top: 0px;
   border-left: 0px;
-  border-color: #1E6FD9;
+  border-color: #6f97cb;
 }
 
 
@@ -124,7 +124,7 @@ a{
   top:20rem;
 }
 .contact_container h1{
-  font-size: 5rem;
+  font-size: 4rem;
   font-family: 'Montserrat';
 }
 .contact_container p{
