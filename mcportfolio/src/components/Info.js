@@ -1,6 +1,4 @@
 export default {
-  //(Please Do Not Remove The comma(,) after every variable)
-
   //Change The Website Template
   name: "",
 
@@ -20,7 +18,7 @@ export default {
   // Change Projects Here
   projects: [
     {
-      id: 1, //DO NOT CHANGE THIS (Please)😅
+      id: 1, 
       title: "FitUp", //Project Title - Add Your Project Title Here
       // Image Size Should be (300X300 px)
       imageSrc: "https://mariafcc.github.io/mariafcc.github.io/img/fitUp.png",
@@ -28,31 +26,31 @@ export default {
       url: "http://project-two-2020.herokuapp.com/"
     },
     {
-      id: 2, //DO NOT CHANGE THIS (Please)😅
+      id: 2, 
       title: "Note-Taker",
       imageSrc: "https://mariafcc.github.io/mariafcc.github.io/img/note.png",
       url: "https://note-mc.herokuapp.com/notes"
     },
     {
-      id: 3, //DO NOT CHANGE THIS (Please)😅
+      id: 3, 
       title: "Employee-Generator",
       imageSrc: "https://mariafcc.github.io/mariafcc.github.io/img/teamDemo.png",
       url: "https://drive.google.com/file/d/1zsxKK7ofVBq26sy9gvWn3VTjz6l89c4N/view?usp=sharing"
     },
     {
-      id: 4, //DO NOT CHANGE THIS (Please)😅
+      id: 4, 
       title: "Employee-tracker",
       imageSrc: "https://mariafcc.github.io/mariafcc.github.io/img/emptracker.png",
       url: "https://drive.google.com/file/d/1zsxKK7ofVBq26sy9gvWn3VTjz6l89c4N/view?usp=sharing"
     },
     {
-      id: 5, //DO NOT CHANGE THIS (Please)😅
+      id: 5, 
       title: "Quiz",
       imageSrc: "https://mariafcc.github.io/mariafcc.github.io/img/codequiz.png",
       url: "https://github.com/Mariafcc/sprint4homework"
     },
     {
-      id: 6, //DO NOT CHANGE THIS (Please)😅
+      id: 6, 
       title: "Weather",
       imageSrc: "https://mariafcc.github.io/mariafcc.github.io/img/weatherapp.png",
       url: "https://github.com/Mariafcc/sprint6homework"
@@ -70,26 +68,5 @@ export default {
                 */
   ],
 
-  // Contact Section
-  contactPara:
-    "If you'd like to contact me ",
-  social: [
-    // Add Or Remove The Link Accordingly
-    {
-      name: "LinkedIn",
-      url: "https://www.linkedin.com/in/chetanverma7/"
-    },
-    {
-      name: "Github",
-      url: "https://www.behance.net/chetanverma"
-    },
-    {
-      name: "Dribbble",
-      url: "https://dribbble.com/chetanverma"
-    }
-  ],
-
-  // About Page
-  aboutTitle: "Coding enthusiast",
-  aboutPara: "Coding certificate graduate, who loves to code. Proficiant in React, javaScript, and more." 
+  
 };
