@@ -7,7 +7,6 @@ const Header = ({name, contactEmail})=>{
                 <Link to="/"><h1>{name}</h1></Link>
                 <nav>
                     <ul>
-                        {/* <li><Link to="/about">about</Link></li> */}
                         <li><a href={`mailto:${contactEmail}`}>contact</a></li>
                     </ul>
                 </nav>
