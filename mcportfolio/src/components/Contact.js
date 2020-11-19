@@ -6,11 +6,9 @@ const Contact = () => {
     return (
         <div className="contact_container">
             <h1>Get in touch.</h1>
-            {/* <p>{contactPara}</p> */}
+            
             <br></br>
-            {/* <a className="email_link" href={`mailto:${contactEmail}`}>
-                {contactEmail}
-            </a> */}
+            
             <div className="social_links">
                 <ul>
                     <li>
